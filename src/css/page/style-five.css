@@ -1,0 +1,156 @@
+@charset "utf-8";
+@import "../lib/reset.css";
+body {
+  background-color: #ffffff;
+}
+.clearfix:after {
+  content: '\20';
+  display: block;
+  height: 0;
+  clear: both;
+}
+.clearfix {
+  zoom: 1;
+}
+.fence-header {
+  height: 44px;
+  border: 1px solid #dcdcdc;
+  position: relative;
+}
+.fence-header .fence-header-left {
+  position: absolute;
+  left: 14px;
+  top: 15px;
+  width: 14px;
+  height: 14px;
+  border: 2px solid #808589;
+  transform: rotate(45deg);
+  border-right: none;
+  border-top: none;
+}
+.fence-header .fence-header-title {
+  text-align: center;
+  font-size: 20px;
+  color: #353d44;
+  font-weight: normal;
+  line-height: 44px;
+}
+.fence-header .fence-header-right {
+  position: absolute;
+  right: 60px;
+  top: 22px;
+  width: 25px;
+  height: 5px;
+  background: url("../../images/img-five/header-circle-.png") no-repeat;
+  background-size: 100% 100%;
+}
+.fence-main {
+  width: 100%;
+}
+.fence-main .fence-main-left {
+  width: 25%;
+  height: 602px;
+  float: left;
+  background-color: #f5f5f5;
+}
+.fence-main .fence-main-left .fence-main-left-menu {
+  text-align: center;
+}
+.fence-main .fence-main-left .fence-main-left-menu li {
+  text-decoration: none;
+  height: 52px;
+  border-bottom: 1px solid #ffffff;
+  border-left: 3px solid #f5f5f5;
+  border-right: 3px solid #f5f5f5;
+  line-height: 52px;
+  font-size: 15px;
+  box-sizing: border-box;
+}
+.fence-main .fence-main-left .fence-main-left-menu li a {
+  color: #333333;
+}
+.fence-main .fence-main-left .fence-main-left-menu .active {
+  background-color: #ffffff;
+  border-left: 3px solid #f84656;
+  border-right: 3px solid #ffffff;
+}
+.fence-main .fence-main-right {
+  width: 75%;
+  height: 602px;
+  float: left;
+}
+.fence-main .fence-main-right .fence-main-right-top {
+  padding: 7%;
+  height: 75px;
+}
+.fence-main .fence-main-right .fence-main-right-top a {
+  display: inline-block;
+  width: 100%;
+  height: 75px;
+}
+.fence-main .fence-main-right .fence-main-right-top a img {
+  display: inline-block;
+  width: 100%;
+  height: 75px;
+}
+.fence-main .fence-main-right .fence-main-right-content {
+  padding: 0 7%;
+}
+.fence-main .fence-main-right .fence-main-right-content li {
+  float: left;
+  width: 25%;
+  text-align: center;
+  position: relative;
+  margin-left: 12%;
+  margin-top: 12px;
+  white-space: normal;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.fence-main .fence-main-right .fence-main-right-content li a {
+  display: inline-block;
+  width: 25%;
+  height: 62px;
+}
+.fence-main .fence-main-right .fence-main-right-content li a img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  min-width: 100%;
+  height: 31px;
+  margin-top: 15px;
+  background-color: #fff;
+}
+.fence-main .fence-main-right .fence-main-right-content li a div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 62px;
+  background-color: #888888;
+  opacity: .078;
+}
+.fence-main .fence-main-right .fence-main-right-content li span {
+  display: block;
+  height: 10px;
+  font-size: 12px;
+  padding: 5px 10px;
+  line-height: 10px;
+  word-break: keep-all;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  text-align: center;
+  color: #999;
+}
+.fence-main .fence-main-right .fence-main-right-content .li1 {
+  margin-top: 0;
+}
+.fence-main .fence-main-right .fence-main-right-content .li2 {
+  margin-left: 0;
+}
+.fence-main .fence-main-display {
+  display: none;
+}
