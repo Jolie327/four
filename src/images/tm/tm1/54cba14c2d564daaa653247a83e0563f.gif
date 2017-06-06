@@ -1,0 +1,1317 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>【苏宁易购促销活动】苏宁满减|秒杀|返券|优惠|打折活动 - 苏宁易购</title> 
+  <meta name="description" content="：苏宁易购促销活动频道为您提供最新苏宁易购促销活动信息，包括满减，满赠，秒杀，限时打折等众多优惠促销活动。爆款特价并提供15天无理由退换服务，让您购物无忧"> 
+  <meta name="keywords" content="：苏宁易购促销活动"> 
+  <link href="//sale.suning.com/images/advertise/hg/20111027snhear/css.css" rel="stylesheet" type="text/css"> 
+  <link rel="stylesheet" type="text/css" href="//saleres.suning.cn/all/ju/style/template.css"> 
+  <link rel="stylesheet" type="text/css" href="//saleres.suning.cn/all/ju/style/animation.css"> 
+  <link rel="shortcut icon" href="//www.suning.com/favicon.ico" type="image/x-icon"> 
+  <script type="text/javascript">
+    ;(function(){
+      var isPc = function() {
+            var userAgentInfo = navigator.userAgent;
+            var Agents = new Array("Android", "iPhone", "SymbianOS", "Windows Phone", "iPad", "iPod");
+            var flag = true;
+            for (var v = 0; v < Agents.length; v++) {
+                if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                    flag = false;
+                    break;
+                }
+            }
+            return flag;
+        }
+       if(!isPc() && window.location.href.indexOf("?wap") < 0){
+          window.location.href = "http://m.suning.com/" + "?wap"
+       }
+    })();
+    </script> 
+  <style type="text/css">
+        img{vertical-align:top;}
+        img.err-product{background:url(http://script.suning.cn/css/ShoppingArea/V8/home/images/blankbg.gif) no-repeat 50% 50%;}
+        html{overflow-x:hidden;}
+        .bodyBG{width:100%;background:#ffffff;}
+        .warp{width:100%;background:#ffffff url(images/banner_BG.jpg) no-repeat center top;}
+        .main{width:1000px;margin:0 auto;position: relative;}
+
+        /*悬浮样式部分start---------------------------------------------------------------------------------------*/
+        .float{display: none;}      
+        #backTopFloat{width: 21px;height: 66px;} 
+        /*悬浮样式部分end--------------------------------------------------------------------------------------------*/
+		.products .product .code{
+            -webkit-transition: all 0.5s ease;
+            -moz-transition: all 0.5s ease;
+            -o-transition: all 0.5s ease;
+            -ms-transition: all 0.5s ease;
+            transition: all 0.5s ease;
+        }  
+		/*2张图片切换start--------------------------------------------------------------------------------------------*/	
+        .qiehuan{height: 120px;}
+		.qiehuan a{float:left;width:1000px;height:116px;}
+		.qiehuan .a01{width:194px;height:35px;background:url(images/pljxmingan_01.jpg) no-repeat;}
+		.qiehuan .a02{width:153px;height:35px;background:url(images/pljxmingan_02.jpg) no-repeat;}
+		.qiehuan .a03{width:153px;height:35px;background:url(images/pljxmingan_03.jpg) no-repeat;}
+		.qiehuan .a04{width:154px;height:35px;background:url(images/pljxmingan_04.jpg) no-repeat;}
+		.qiehuan .a05{width:151px;height:35px;background:url(images/pljxmingan_05.jpg) no-repeat;}
+		.qiehuan .a06{width:195px;height:35px;background:url(images/pljxmingan_06.jpg) no-repeat;}
+		
+		.qiehuan .a07{width:194px;height:38px;background:url(images/pljxmingan_07.jpg) no-repeat;}
+		.qiehuan .a08{width:153px;height:38px;background:url(images/pljxmingan_08.jpg) no-repeat;}
+		.qiehuan .a09{width:153px;height:38px;background:url(images/pljxmingan_09.jpg) no-repeat;}
+		.qiehuan .a10{width:154px;height:38px;background:url(images/pljxmingan_10.jpg) no-repeat;}
+		.qiehuan .a11{width:151px;height:38px;background:url(images/pljxmingan_11.jpg) no-repeat;}
+		.qiehuan .a12{width:195px;height:38px;background:url(images/pljxmingan_12.jpg) no-repeat;}
+		
+		.qiehuan .a13{width:194px;height:43px;background:url(images/pljxmingan_13.jpg) no-repeat;}
+		.qiehuan .a14{width:153px;height:43px;background:url(images/pljxmingan_14.jpg) no-repeat;}
+		.qiehuan .a15{width:153px;height:43px;background:url(images/pljxmingan_15.jpg) no-repeat;}
+		.qiehuan .a16{width:154px;height:43px;background:url(images/pljxmingan_16.jpg) no-repeat;}
+		.qiehuan .a17{width:151px;height:43px;background:url(images/pljxmingan_19.jpg) no-repeat;}
+		.qiehuan .a18{width:195px;height:43px;background:url(images/pljxmingan_18.jpg) no-repeat;}
+		
+		
+		.qiehuan .a01:hover{background:url(images/pljxmingan_01b.jpg) no-repeat;}
+		.qiehuan .a02:hover{background:url(images/pljxmingan_02b.jpg) no-repeat;}
+		.qiehuan .a03:hover{background:url(images/pljxmingan_03b.jpg) no-repeat;}
+		.qiehuan .a04:hover{background:url(images/pljxmingan_04b.jpg) no-repeat;}
+		.qiehuan .a05:hover{background:url(images/pljxmingan_05b.jpg) no-repeat;}
+		.qiehuan .a06:hover{background:url(images/pljxmingan_06b.jpg) no-repeat;}
+		
+		.qiehuan .a07:hover{background:url(images/pljxmingan_07b.jpg) no-repeat;}
+		.qiehuan .a08:hover{background:url(images/pljxmingan_08b.jpg) no-repeat;}
+		.qiehuan .a09:hover{background:url(images/pljxmingan_09b.jpg) no-repeat;}
+		.qiehuan .a10:hover{background:url(images/pljxmingan_10b.jpg) no-repeat;}
+		.qiehuan .a11:hover{background:url(images/pljxmingan_11b.jpg) no-repeat;}
+		.qiehuan .a12:hover{background:url(images/pljxmingan_12b.jpg) no-repeat;}
+		
+		.qiehuan .a13:hover{background:url(images/pljxmingan_13b.jpg) no-repeat;}
+		.qiehuan .a14:hover{background:url(images/pljxmingan_14b.jpg) no-repeat;}
+		.qiehuan .a15:hover{background:url(images/pljxmingan_15b.jpg) no-repeat;}
+		.qiehuan .a16:hover{background:url(images/pljxmingan_16b.jpg) no-repeat;}
+		.qiehuan .a17:hover{background:url(images/pljxmingan_17b.jpg) no-repeat;}
+		.qiehuan .a18:hover{background:url(images/pljxmingan_18b.jpg) no-repeat;}
+		
+		/*2张图片切换end--------------------------------------------------------------------------------------------*/
+        
+		
+		/*轮播样式start*/
+        #slide_1{position: relative;background: url(images/top_02.jpg) no-repeat center top;width: 1000px;height: 437px;z-index: 998;}
+        #slide_1 .nums{position: absolute;width: 1000px;margin-left: -40px;z-index: 500;top: 370px;left: 50%;}
+        #slide_1 .nums li{float: left;margin-right: 4px;}
+        #slide_1 .nums li a{display: block;background: url(images/icons1.png) no-repeat -57px -45px;width: 21px;height: 21px;text-align: center;line-height: 21px;color: #fff;font-size: 12px;}
+        #slide_1 .nums li.on a{background: url(images/icons1.png) no-repeat -30px -45px;}
+        #slide_1 .box{width: 1000px;height: 437px;overflow:hidden ;position: absolute;top: 5px;left: 8px;}
+        #slide_1 .content{width: 4915%;position: absolute;left: -4915px;}
+        #slide_1 .content .page{width: 983px;float: left;height: 405px;}
+        #slide_1 .btn{width: 26px;height: 55px;display: block;position: absolute;top: 180px;text-indent: -999em;z-index: 999;} 
+        #slide_1 .btn.prev{left: 5px;background: url(images/icons1.png) no-repeat -178px -25px;}
+        #slide_1 .btn.next{right: 5px;background: url(images/icons1.png) no-repeat -220px -25px;}
+		 /*轮播样式end*/
+		 
+        /*楼尾start*/
+		.louwei{ width:1000px; height:229px;  margin:0 auto; float:left;}
+		.louwei_shang{ width:1000px; height:48px; background:url(images/louwei.jpg) no-repeat; float:left; margin:0 auto;}
+		.louwei_xia{ width:1000px; height:181px; margin:0 auto; float:left;}
+		.louwei_xia_biao{ width:330px; height:35px; margin-left:0; margin-top:5px; float:left;}
+		.louwei_xia_biao li{ margin-top:10px; margin-left:50px; display:block;}
+		.louwei_xia_biao li a{ color:#000;}
+    </style> 
+  <script type="text/javascript">var sn = sn || {'context': '/emall', 'domain': 'www.suning.com','storeId': '10052','catalogId': '10051','memberDomain':'member.suning.com','online':'online.suning.com','cookieDomain':'.suning.com','categoryId':'0','searchDomain':'http://search.suning.com/emall/','sslDomain':'ssl.suning.com'};</script> 
+  <script type="text/javascript">var sn = sn || {'context': '/emall', 'domain': 'www.suning.com','storeId': '10052','catalogId': '10051','memberDomain':'member.suning.com','online':'online.suning.com','cookieDomain':'.suning.com','categoryId':'0','searchDomain':'http://search.suning.com/emall/','sslDomain':'ssl.suning.com'};</script> 
+  <script type="text/javascript">var sn = sn || {'context': '/emall', 'domain': 'www.suning.com','storeId': '10052','catalogId': '10051','memberDomain':'member.suning.com','online':'online.suning.com','cookieDomain':'.suning.com','categoryId':'0','searchDomain':'http://search.suning.com/emall/','sslDomain':'ssl.suning.com'};</script> 
+  <!-- PRFLS RESOURCES -->
+<link rel="shortcut icon" href="//www.suning.com/favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="//res.suning.cn/public/v3/css/??v3common.min.css,search.min.css,sn-sidebar.min.css?v=2017051201"/>
+<script type="text/javascript" src="//res.suning.cn??/public/v3/js/jquery.js,/public/v3/js/sn_lazyload.js,/public/v3/js/lazyelem.min.js,/public/v3/js/SFE.base.min.js,/public/v3/js/search.min.js,/public/sidebar/build/js/sn-sidebar.min.js,/project/yunxin/js/chatCompat_mini.js?v=2017051201"></script>
+<script>
+	var sa;if(!sa){sa={}}if(!sa.click){sa.click={}}(function(){var u=/^\w*?.suning.com$/,t=document.location.hostname,h=(("https:"==document.location.protocol)?"https://":"http://"),p=i(),b="|",c=location.href,n=m(q(c));function r(aa,N){try{var Z=aa.name?m(aa.name):"name undefined";if(Z=="name undefined"){var ab=aa.attributes.name;if(ab!=undefined&&ab!=null){Z=ab.value?m(ab.value):"name undefined"}}if(N!=undefined&&N!=null&&N!=""){var K=aa.attributes[N];if(K!=undefined&&K!=null){Z=K.value?m(K.value):N+" undefined"}}var O=aa.id?m(aa.id):"id undefined",R=new Array(),A=(f(aa,R),R)?m(R.join("").replace(/\s|\|/ig,"")):"text undefined",U=(U=document.getElementById("resourceType"))?U.value:"",B=O+b+Z+b+A,S=(S=document.getElementById("errorCode"))?S.value:"",X=h+p+"/ajaxClick.gif",z=v(),k="_snck";l(k,z,"/","","");var Y=d();var E=typeof sn=="object"?sn.cityId:"can not get cityId",J=z+b+Y+b+B+b+n,W=aa.href?aa.href:"",I=(W?x(W):"-"),L=document.getElementById("URLPattern"),Q=(L?L.value:"");var D="";var G=o("logonStatus");if(G!=undefined&&G!=null){D=G}var F="";var j=o("_snma");if(j!=undefined&&j!=null&&j.indexOf("|")>=0){try{F=j.split("|")[1]}catch(V){}}var C="";var y=o("idsLoginUserIdLastTime");if(y!=undefined&&y!=null){C=y}var T="";var P=o("custno");if(P!=undefined&&P!=null){T=P}var M="";var ac=o("_snmb");if(ac!=undefined&&ac!=null&&ac.indexOf("|")>=0){try{M=ac.split("|")[0]}catch(V){}}var H=X+"?_snmk="+J+"&_snme="+S+"&_type="+U+"&_cId="+E+"&_sid="+I+"&urlPattern="+Q+"&vid="+F+"&lu="+C+"&sid="+M+"&mid="+T+"&ls="+D;w(H)}catch(V){}}function d(){if(!sa.pvId){sa.pvId=v()}return sa.pvId}function v(){try{var k=new Date(),j=Math.round(100000*Math.random()),z=k.getTime().toString().concat(j);return z}catch(y){}}function o(k){var j=document.cookie.split("; ");for(var y=0;y<j.length;y++){var z=j[y].split("=");if(z[0]==k){return unescape(z[1])}}}function w(j){var y="log_"+(new Date()).getTime();var k=window[y]=new Image();k.onload=(k.onerror=function(){window[y]=null});k.src=j+"&iId="+y;k=null}function i(){if(u.test(t)){return"click.suning.cn/sa"}else{return"clicksit.suning.cn/sa"}}function e(){return document.domain}function l(k,j,D,C,B){try{var A=k+"="+escape(j);if(C!=""){var z=new Date();z.setTime(z.getTime()+C);A+=";expires="+z.toGMTString()}if(D!=""){A+=";path="+D}var y=e();if(y.indexOf(".suning.com")!=-1){A+=";domain=.suning.com"}else{if(y.indexOf(".cnsuning.com")!=-1){A+=";domain=.cnsuning.com"}else{A+=";domain="+B}}document.cookie=A}catch(B){}}function x(k){var j="-";if(!a(k)){j=g(k,"tid","&")}return j}function q(j){try{if(j.length>301){j=j.substring(0,300)}while(j.indexOf(b)!=-1){j=j.replace(b,"--")}return j}catch(k){}}function f(z,k){try{if(z.nodeType==3){k.push(z.nodeValue)}else{if(z.nodeType==1){for(var j=z.firstChild;j!=null;j=j.nextSibling){f(j,k)}}}}catch(y){}}function m(j){return j!=null?encodeURIComponent(j):""}function g(y,k,B){try{var A="-",j;if(!a(y)&&!a(k)&&!a(B)){j=y.indexOf(k);if(j>-1){var z=y.indexOf(B,j);if(z<0){z=y.length}A=y.substring(j+k.length+1,z)}}return A}catch(z){}}function a(j){return(undefined==j||""==j||"-"==j)}var s=sa.click;s.sendDatasIndex=r})();
+</script> 
+ </head> 
+ <body> 
+  <div id="_TOP_BANNER_" class="ng-top-banner"></div>
+<div class="ng-toolbar">
+    <div class="ng-toolbar-con wrapper">
+        <div class="ng-toolbar-left">
+            <a href="//www.suning.com" class="ng-bar-node ng-bar-node-backhome" id="ng-bar-node-backhome" name="public0_none_dbgjt_fhyisy01">
+                <i class="ng-iconfont ng-backhome">&#xe640;</i><span>返回易购首页</span>
+                <i class="ng-line ng-iconfont ml10">&#xe628;</i>
+            </a>
+            <script type="text/javascript">
+                if (!sn.isHome){document.getElementById('ng-bar-node-backhome').style.display = "block";};
+            </script>
+
+            <a href="javascript:void(0)" class="ng-bar-node username-bar-node username-bar-node-showside" id="username-node" rel="nofollow" style="display:none;">
+                <span id="usernameHtml01"></span>
+                <em class="hasmsg ng-iconfont">&#xe637;</em>
+            </a>
+            <div class="ng-bar-node-box username-handle" id="username-node-slide" style="display:none;">
+                <a href="//my.suning.com" rel="nofollow" class="ng-bar-node username-bar-node username-bar-node-noside">
+                    <span id="usernameHtml02"></span>
+                    <em class="hasmsg ng-iconfont">&#xe637;</em>
+                    <em class="ng-iconfont down">&#xe62e;</em>
+                </a>
+                <div class="ng-d-box ng-down-box ng-username-slide" style="display:none;">
+                    <a href="//my.suning.com/person.do" class="ng-vip-union" target="_blank" rel="nofollow">账号管理</a>
+                    <a href="javascript:SFE.base.logoff();" rel="nofollow">退出登录</a>
+                </div>
+            </div>
+            <div class="ng-bar-node reg-bar-node" id="reg-bar-node">
+                <a href="javascript:SFE.base.logonurl();" name="public0_none_denglu_denglu" rel="nofollow" class="login">请登录</a>
+                <a href="https://reg.suning.com/person.do" target="_blank" class="login reg-bbb" rel="nofollow" name="public0_none_denglu_zhuce">注册有礼<i></i></a>
+            </div>
+            <script type="text/javascript">
+                function d(b) {
+                    var a;
+                    return (a = document.cookie.match(RegExp("(^| )" + b + "=([^;]*)(;|$)"))) ? decodeURIComponent(a[2]
+                        .replace(/\+/g, "%20"))
+                        : null
+                };
+                var uernameA = d("logonStatus");
+                var usernameNode = document.getElementById('username-node');
+                var usernameNodeSlide = document.getElementById('username-node-slide');
+                var usernameHtml01 = document.getElementById('usernameHtml01') , usernameHtml02 = document.getElementById('usernameHtml02');
+                var regBarNode = document.getElementById('reg-bar-node');
+                if (uernameA != null && uernameA != "") {
+                    var uernameC = d("nick");
+                    // if( ((window.sidebar_config && sidebar_config.enable)||sn.hasSidebar) && !sn.hasNewSidebar ){
+                    //  usernameNode.style.display = "block";
+                    // }else{
+                        usernameNodeSlide.style.display = "block";
+                    //}
+                    usernameHtml01.innerHTML = uernameC;
+                    usernameHtml02.innerHTML = uernameC;
+                    regBarNode.style.display = "none";
+                }else{
+                    usernameNode.style.display = "none";
+                    usernameNodeSlide.style.display = "none";
+                    usernameHtml01.innerHTML = " ";
+                    usernameHtml02.innerHTML = " ";
+                    regBarNode.style.display = "block";
+                }
+            </script>
+        </div>
+        <div class="ng-toolbar-right">
+
+            <!--我的订单 [[-->
+            <div class="ng-bar-node-box myorder-handle">
+                <a href="//member.suning.com/emall/MyOrdersView?storeId=10052&catalogId=10051" rel="nofollow" name="public0_none_wode_dingdan" class="ng-bar-node ng-bar-node-fix touch-href ng-bar-node-pr5"><span>我的订单</span><em class="ng-iconfont down">&#xe62e;</em></a>
+                <div class="ng-down-box ng-d-box myorder-child" style="display:none;">
+                    <a href="//member.suning.com/emall/MyOrdersView?catalogId=10051&storeId=10052&selectTime=all&status=M" rel="nofollow" name="public0_none_wode_zhufu">待支付<em id="waitPayCounts"></em></a>
+                    <a href="//member.suning.com/emall/MyOrdersView?catalogId=10051&storeId=10052&selectTime=all&status=C000" rel="nofollow" name="public0_none_wode_shouhuo">待收货<em id="waitDeliveryCounts"></em></a>
+                    <a href="//review.suning.com/my_cmmdty_review.do" rel="nofollow" name="public0_none_wode_pingjia">待评价<em id="waitEvaluation"></em></a>
+                    <a href="//assss.suning.com/assss-web/pc/modify/toModifyOrderList.do" rel="nofollow" name="public0_none_wode_xiugai">修改订单</a>
+                </div>
+            </div>
+            <!--我的订单 ]]-->
+            <!--我的易购 [[-->
+            <div class="ng-bar-node-box mysuning-handle">
+                <a href="//my.suning.com" rel="nofollow" name="public0_none_wode_yigou" class="ng-bar-node ng-bar-node-fix touch-href ng-bar-node-pr5"><span>我的易购</span><em class="ng-iconfont down">&#xe62e;</em></a>
+                <div class="ng-down-box ng-d-box mysuning-child" style="display:none;">
+                    <div class="mysuning-infor clearfix">
+                        <a name="public0_none_wode_touxiang" target="_blank" href="//my.suning.com/person.do?targetTab=head" class="headimg"><img src3="//image.suning.cn/uimg/cmf/cust_headpic/0000000000_01_60x60.jpg" alt="" id="userHead" /></a>
+                        <div class="mysuning-detail">
+                            <a name="public0_none_denglu_denglu" href="javascript:SFE.base.logonurl();" class="login" >请登录</a>
+                            <a name="public0_none_wode_name" href="//my.suning.com" rel="nofollow" class="username" id="userNickname">141******13</a>
+                            <a href="//vip.suning.com/sign/welcome.do" rel="nofollow" name="public0_none_wode_daka" class="daka">点击打卡</a>
+                        </div>
+                    </div>
+                    <a href="//2.suning.com/myOrder/queryMyOrders.do" name="public0_none_wode_ershou" rel="nofollow" target="_blank">我的二手</a>
+                    <a href="//member.suning.com/emall/MyOrdersView?storeId=10052&catalogId=10051" rel="nofollow" name="public0_none_wode_shoucang" target="_blank">我的订单</a>
+                    <a href="https://passport.suning.com/ids/trustLogin?sysCode=epp&targetUrl=//my.jr.suning.com/sfp/accountAssets/index.htm" rel="nofollow" name="public0_none_wode_jinrong" target="_blank">我的金融</a>
+                    <a href="//vip.suning.com" class="ng-vip-union" target="_blank" rel="nofollow" name="public0_none_wode_huiyuan">苏宁会员<em class="ng-iconfont">&#xe635;</em></a>
+                    <a href="https://rxf.suning.com/epps-cpf/accountMgt/assetOverview.do" rel="nofollow" name="public0_none_wode_renxingfu">我的任性付</a>
+                    <a href="//member.suning.com/emall/MyGiftTicket?storeId=10052&catalogId=10051" rel="nofollow" name="public0_none_wode_quan">我的优惠券</a>
+                </div>
+            </div>
+
+            <!-- 购物车 -->
+            <a class="ng-bar-node ng-bar-node-mini-cart" name="public0_none_gouwuche_gwc" rel="nofollow" href="//cart.suning.com/emall/OrderItemDisplay?langId=-7&storeId=10052&catalogId=10051">
+                <em class="ng-iconfont cart">&#xe623;</em><span>购物车</span>
+                <span class="total-num-box" id="J_total_num_box">
+                    <b class="total-num J_cart_total_num" id="showTotalQty">0</b>
+                    <span class="total-num-bg-box">
+                        <em></em>
+                        <i></i>
+                    </span>
+                </span>
+            </a>
+            <script type="text/javascript">
+                var ngCartNum =  d("totalProdQty");
+                ngCartNum = ( ngCartNum ==0 || ngCartNum == null )?0:ngCartNum;
+                ngCartNum = ngCartNum>99?'99+':ngCartNum;
+                document.getElementById('showTotalQty').innerHTML = ngCartNum;
+            </script>
+            <a href="https://passport.suning.com/ids/trustLogin?sysCode=epp&targetUrl=https://pay.suning.com/epp-epw/login/login.action" name="public0_none_yifubao_yfb" class="ng-bar-node ng-bar-node-pr5" target="_blank"><span>易付宝</span></a>
+
+            <!--服务中心 [[-->
+            <div class="ng-bar-node-box service-handle lazy-bar-box">
+                <a href="javascript:void(0);" class="ng-bar-node ng-bar-node-service ng-bar-node-fix touch-href ng-bar-node-pr5" rel="nofollow" name="public0_none_kehu_fuwu"><span>客户服务</span><em class="ng-iconfont down">&#xe62e;</em>
+                </a>
+                <div class="ng-down-box ng-d-box service-center-child ng-ser-list" style="display:none;">
+                    <!--服务中心列表-->
+                    <div class="head-loading"></div>
+                    <a href="javascript:findpass();" rel="nofollow" name="public0_none_kehu_zixun" style="display:none;"><span>在线咨询</span><em class="ng-iconfont">&#xe631;</em></a>
+                </div>
+            </div>
+            <!--服务中心 ]]-->
+            <div class="ng-bar-node-box shop-handle lazy-bar-box">
+                <a href="//sop.suning.com/sel/sic/showSwlIndex.htm" class="ng-bar-node ng-bar-node-pr5  ng-bar-node-shop touch-href" name="public0_none_shangjia_ruzhu" target="_blank"><span>商家入驻</span><em class="ng-iconfont down">&#xe62e;</em></a>
+                <div class="ng-down-box ng-d-box shop-center-child ng-ser-list" style="display:none;">
+                    <!--商家入驻列表-->
+                    <div class="head-loading"></div>
+                </div>
+            </div>
+
+            <a href="//b.suning.com/" class="ng-bar-node ng-bar-node-pr5" name="public0_none_qiye_caigou" target="_blank"><span>企业采购</span></a>
+
+            <!--手机苏宁 [[-->  
+            <div class="ng-bar-node-box app-down-box">
+                <a href="//sale.suning.com/syb/20120419xsjkhd/index.html" target="_blank" name="public0_none_shouji_sn" rel="nofollow" class="ng-bar-node mb-suning touch-href">
+                    <em class="ng-iconfont mb">&#xe604;</em><span>手机苏宁</span><em class="ng-iconfont down">&#xe62e;</em>
+                </a>
+                <div class="ng-mb-box ng-d-box mb-down-child" style="display:none;">
+                    <ul class="ng-app-code">
+                        <li>
+                            <img src3="//img.suning.cn/public/v3/images/code.png?var=07" alt="苏宁易购APP"/>
+                            <p>苏宁易购APP</p>
+                        </li>
+                        <li>
+                            <img src3="//img.suning.cn/public/v3/images/code-yfb.png?var=01" alt="易付宝APP"/>
+                            <p>易付宝APP</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!--手机苏宁 ]]-->
+             <!--网站导航 [[-->
+            <div class="ng-bar-node-box ng-site-nav-box lazy-bar-box">
+                <a href="javascript:void(0);" class="ng-bar-node ng-bar-node-site" name="public0_none_daohang_wzdh">
+                    <span>网站导航</span><em class="ng-iconfont down">&#xe62e;</em>
+                </a>
+                <div class="ng-sn-site-nav ng-d-box site-nav-child" style="display:none;">
+                    <!--网站导航列表-->
+                    <div class="head-loading"></div>
+                    <a href="javascript:void(0);" class="ng-close" name="public0_none_daohang_close"><em class="ng-iconfont">&#xe627;</em></a>
+                </div>
+            </div>
+            <!--网站导航 ]]-->
+        </div>
+        <div id="ng-minicart-slide-box"></div>
+    </div>
+</div>
+<div class="ng-header ng-channel-header">
+    <div class="ng-header-con">
+        <div class="wrapper">
+            <div class="ng-logo-box" id="G_SUNING_LOGO">
+                <!-- LOGO -->
+                <a href="http://www.suning.com" class="ng-logo">
+                    <img src="//img.suning.cn/public/v3/images/logo/snlogo.png?v=2015042703" height="100" width="190" alt="苏宁易购"/>
+                </a>
+
+                <span id="G_CHANNEL_LOGO" class="channel-logo"></span>
+            </div>
+            <div class="ng-search channel-search">
+                <!-- PRFLS SEARCH -->
+
+                <div class="g-search">
+                    <i class="ng-iconfont search-icon">&#xe619;</i>
+                    <form method="get" onsubmit="return SFE.search.onSubmitSearch(this)">
+                        <div class="search-keyword-box">
+                            <input tabindex="0" id="searchKeywords" type="text" class="search-keyword" name="index1_none_search_ss2" value="" autocomplete="off" />
+                        </div>
+                        <input id="searchSubmit" type="submit" class="search-btn" name="index1_none_search_ss1" value="搜索"/>
+                        <div id="snKeywordNew" class="g-search-hotwords"></div>
+                    </form>
+                    <div id="ac_results" class="g-ac-results hide"></div>
+                    <div id="rec_results" class="g-rec-results hide">
+                        <ul class="history-results"></ul>
+                        <ul class="rec-results"></ul>
+                    </div>
+                </div>
+            </div>
+            <!-- LOGO -->
+            <div class="ng-top-act" id="ng-top-act"></div>
+
+        </div>
+    </div>
+</div>
+
+<div class="ng-nav-bar ng-nav-bar-chanel">
+    <div class="ng-sort">
+        <a class="ng-all-hook" href="http://as.suning.com/allsort.htm" target="_blank" name="public0_none_dht_09">
+            <span>全部商品分类</span><em class="ng-iconfont">&#xe62e;</em>
+        </a>
+        <div class="ng-sort-list-box">
+            <div class="ng-sort-detail">
+                <a href="javascript:void(0);" class="ng-close-sort" name="public0_none_ml_gban"><em class="ng-iconfont">&#xe627;</em></a>
+                <div class="sort-chanel">
+                </div>
+                <div class="cate-list">
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ng-nav-index">
+        <ul class="ng-nav" id="ng-main-nav">
+            <li><a href="http://www.suning.com/" target="_blank" name="public0_none_dht_01">首页</a></li>
+            <li><a name="public0_none_dht_02" href="http://vip.suning.com/" target="_blank">苏宁会员
+            </a></li>
+            <li><a name="public0_none_dht_03" href="http://fashion.suning.com/" target="_blank">服装城
+            </a></li>
+            <li><a name="public0_none_dht_04" href="http://chaoshi.suning.com/" target="_blank">苏宁超市
+            </a></li>
+            <li><a name="public0_none_dht_05" href="http://dianqi.suning.com/" target="_blank">电器城
+            </a></li>
+            <li><a name="public0_none_dht_06" href="http://redbaby.suning.com/" target="_blank">红孩子母婴
+            <i class="hot"></i>
+            </a></li>
+            <li><a name="public0_none_dht_07" href="http://ju.suning.com/pc/home.htm" target="_blank">大聚惠
+            </a></li>
+            <li><a name="public0_none_dht_08" href="http://jinrong.suning.com/" target="_blank">苏宁金融
+            </a></li>
+            <li><a name="public0_none_dht_09" href="http://g.suning.com/mall.htm" target="_blank">海外购
+            </a></li>
+
+            <!-- 		<li><a href="http://binggo.suning.com/" target="_blank" name="public0_none_dht_08">美妆</a></li>
+        <li><a href="http://pai.suning.com/shanpai" target="_blank" name="public0_none_dht_08">闪拍</a></li> -->
+        </ul>	
+    </div>
+
+    <div class="ng-nav-right-txtact"></div>
+</div>
+
+ 
+  <div class="bodyBG"> 
+   <div class="warp"> 
+    <div class="main"> 
+     <!-- 主体内容开始 --> 
+     <a href="//sale.suning.com/"><img src="//saleimg2.suning.cn/all/ju/images/top_07.jpg"></a> 
+     <!-- 轮播代码start --> 
+     <div id="slide_1" class="slide"> 
+      <ul class="nums"> 
+       <li class="num on"><a href="javascript:void(0)">1</a></li> 
+       <li class="num on"><a href="javascript:void(0)">2</a></li> 
+       <li class="num on"><a href="javascript:void(0)">3</a></li> 
+       <li class="num on"><a href="javascript:void(0)">4</a></li> 
+       <li class="num on"><a href="javascript:void(0)">5</a></li> 
+      </ul> 
+      <div class="box"> 
+       <ul class="content"> 
+        <li class="page page2" data-page="1"> <img src="//saleimg2.suning.cn/all/ju/images/djuhuihz00413.jpg" border="0" usemap="#Map12"> <map name="Map12" id="Map12"> <area shape="rect" coords="3,5,979,400" href="https://ju.suning.com/" target="_blank"> </map> </li> 
+        <li class="page page2" data-page="2"> <img src="//saleimg1.suning.cn/all/ju/images/jizhuanghh00413.jpg" border="0" usemap="#Map12"> <map name="Map12" id="Map12"> <area shape="rect" coords="3,5,979,400" href="https://pindao.suning.com/city/jiajuguan.html" target="_blank"> </map> </li> 
+        <li class="page page2" data-page="3"> <img src="//saleimg3.suning.cn/all/ju/images/shmadc00413.jpg" border="0" usemap="#Map12"> <map name="Map12" id="Map12"> <area shape="rect" coords="3,5,979,400" href="https://pindao.suning.com/city/shuma.htm" target="_blank"> </map> </li> 
+        <li class="page page1" data-page="4"> <img src="//saleimg2.suning.cn/all/ju/images/tuijian.jpg" border="0" usemap="#Map11"> <map name="Map11" id="Map11"> <area shape="rect" coords="3,5,979,400" href="//rec.suning.com/show/recommend.html" target="_blank"> </map> </li> 
+        <li class="page page2" data-page="5"> <img src="//saleimg2.suning.cn/all/ju/images/LBlunbo77.jpg" border="0" usemap="#Map12"> <map name="Map12" id="Map12"> <area shape="rect" coords="3,5,979,400" href="//vip.suning.com/scdc-web/sign/welcome.do" target="_blank"> </map> </li> 
+       </ul> 
+      </div> 
+      <a class="btn prev" href="javascript:void(0)">prev</a> 
+      <a class="btn next" href="javascript:void(0)">next</a> 
+     </div> 
+     <!-- 轮播代码end --> 
+     <!-- 双十二楼层开始 --> 
+     <div class="part part-2"> 
+      <!-- 楼层条 --> 
+      <img src="//saleimg1.suning.cn/all/ju/images/floor_01.jpg"> 
+      <!-- 商品列表 --> 
+      <ul class="products col-5 tmp-4"> 
+       <li class="product first js-product"> 
+        <div class="inner"> 
+         <a href="" target="_blank" class="pro-img"><img src="" title="" width="175" height="175"></a> 
+         <a href="" target="_blank" class="pro-name" title=""></a> 
+         <p class="pro-desc" title=""></p> 
+         <div class="price"> 
+          <div class="p-price"> 
+           <i>￥</i> 
+           <em class="js-unit-price" data-sku="">4886</em> 
+          </div> 
+          <div class="o-price"> 
+           <i>￥</i> 
+           <em class="js-unit-refPrice" data-sku="">5288</em> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="frame"></div> <a class="pro-link" href="" target="_blank" name1="sale_cxpd_floor1_01"></a> </li> 
+       <li class="product js-product"> 
+        <div class="inner"> 
+         <a href="" target="_blank" class="pro-img"><img src="" title="" width="175" height="175"></a> 
+         <a href="" target="_blank" class="pro-name" title=""></a> 
+         <p class="pro-desc" title=""></p> 
+         <div class="price"> 
+          <div class="p-price"> 
+           <i>￥</i> 
+           <em class="js-unit-price" data-sku="">6618</em> 
+          </div> 
+          <div class="o-price"> 
+           <i>￥</i> 
+           <em class="js-unit-refPrice" data-sku="">6888</em> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="frame"></div> <a class="pro-link" href="" target="_blank" name1="sale_cxpd_floor1_02"></a> </li> 
+       <li class="product js-product"> 
+        <div class="inner"> 
+         <a href="" target="_blank" class="pro-img"><img src="" title="" width="175" height="175"></a> 
+         <a href="" target="_blank" class="pro-name" title=""></a> 
+         <p class="pro-desc" title=""></p> 
+         <div class="price"> 
+          <div class="p-price"> 
+           <i>￥</i> 
+           <em class="js-unit-price" data-sku="">1199</em> 
+          </div> 
+          <div class="o-price"> 
+           <i>￥</i> 
+           <em class="js-unit-refPrice" data-sku="">1419</em> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="frame"></div> <a class="pro-link" href="" target="_blank" name1="sale_cxpd_floor1_03"></a> </li> 
+       <li class="product js-product"> 
+        <div class="inner"> 
+         <a href="" target="_blank" class="pro-img"><img src="" title="" width="175" height="175"></a> 
+         <a href="" target="_blank" class="pro-name" title=""></a> 
+         <p class="pro-desc" title=""></p> 
+         <div class="price"> 
+          <div class="p-price"> 
+           <i>￥</i> 
+           <em class="js-unit-price" data-sku="">1299</em> 
+          </div> 
+          <div class="o-price"> 
+           <i>￥</i> 
+           <em class="js-unit-refPrice" data-sku="">1499</em> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="frame"></div> <a class="pro-link" href="" target="_blank" name1="sale_cxpd_floor1_04"></a> </li> 
+       <li class="product js-product"> 
+        <div class="inner"> 
+         <a href="" target="_blank" class="pro-img"><img src="" title="" width="175" height="175"></a> 
+         <a href="" target="_blank" class="pro-name" title=""></a> 
+         <p class="pro-desc" title=""></p> 
+         <div class="price"> 
+          <div class="p-price"> 
+           <i>￥</i> 
+           <em class="js-unit-price" data-sku="">6200</em> 
+          </div> 
+          <div class="o-price"> 
+           <i>￥</i> 
+           <em class="js-unit-refPrice" data-sku="">7000</em> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="frame"></div> <a class="pro-link" href="" target="_blank" name1="sale_cxpd_floor1_05"></a> </li> 
+       <li class="product first js-product"> 
+        <div class="inner"> 
+         <a href="" target="_blank" class="pro-img"><img src="" title="" width="175" height="175"></a> 
+         <a href="" target="_blank" class="pro-name" title=""></a> 
+         <p class="pro-desc" title=""></p> 
+         <div class="price"> 
+          <div class="p-price"> 
+           <i>￥</i> 
+           <em class="js-unit-price" data-sku="">549</em> 
+          </div> 
+          <div class="o-price"> 
+           <i>￥</i> 
+           <em class="js-unit-refPrice" data-sku="">717</em> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="frame"></div> <a class="pro-link" href="" target="_blank" name1="sale_cxpd_floor1_06"></a> </li> 
+       <li class="product js-product"> 
+        <div class="inner"> 
+         <a href="" target="_blank" class="pro-img"><img src="" title="" width="175" height="175"></a> 
+         <a href="" target="_blank" class="pro-name" title=""></a> 
+         <p class="pro-desc" title=""></p> 
+         <div class="price"> 
+          <div class="p-price"> 
+           <i>￥</i> 
+           <em class="js-unit-price" data-sku="">274</em> 
+          </div> 
+          <div class="o-price"> 
+           <i>￥</i> 
+           <em class="js-unit-refPrice" data-sku="">367.8</em> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="frame"></div> <a class="pro-link" href="" target="_blank" name1="sale_cxpd_floor1_07"></a> </li> 
+       <li class="product js-product"> 
+        <div class="inner"> 
+         <a href="" target="_blank" class="pro-img"><img src="" title="" width="175" height="175"></a> 
+         <a href="" target="_blank" class="pro-name" title=""></a> 
+         <p class="pro-desc" title=""></p> 
+         <div class="price"> 
+          <div class="p-price"> 
+           <i>￥</i> 
+           <em class="js-unit-price" data-sku="">178</em> 
+          </div> 
+          <div class="o-price"> 
+           <i>￥</i> 
+           <em class="js-unit-refPrice" data-sku="">200</em> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="frame"></div> <a class="pro-link" href="" target="_blank" name1="sale_cxpd_floor1_08"></a> </li> 
+       <li class="product js-product"> 
+        <div class="inner"> 
+         <a href="" target="_blank" class="pro-img"><img src="" title="" width="175" height="175"></a> 
+         <a href="" target="_blank" class="pro-name" title=""></a> 
+         <p class="pro-desc" title=""></p> 
+         <div class="price"> 
+          <div class="p-price"> 
+           <i>￥</i> 
+           <em class="js-unit-price" data-sku="">89</em> 
+          </div> 
+          <div class="o-price"> 
+           <i>￥</i> 
+           <em class="js-unit-refPrice" data-sku="">173.6</em> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="frame"></div> <a class="pro-link" href="" target="_blank" name1="sale_cxpd_floor1_09"></a> </li> 
+       <li class="product js-product"> 
+        <div class="inner"> 
+         <a href="" target="_blank" class="pro-img"><img src="" title="" width="175" height="175"></a> 
+         <a href="" target="_blank" class="pro-name" title=""></a> 
+         <p class="pro-desc" title=""></p> 
+         <div class="price"> 
+          <div class="p-price"> 
+           <i>￥</i> 
+           <em class="js-unit-price" data-sku="">29.9</em> 
+          </div> 
+          <div class="o-price"> 
+           <i>￥</i> 
+           <em class="js-unit-refPrice" data-sku="">78.9</em> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="frame"></div> <a class="pro-link" href="" target="_blank" name1="sale_cxpd_floor1_10"></a> </li> 
+       <div class="clear"></div> 
+      </ul> 
+     </div> 
+     <!-- 今日推荐楼层结束 --> 
+     <!-- 苏宁特色GO楼层开始 --> 
+     <div class="part part-1"> 
+      <!-- 楼层条 --> 
+      <img src="//saleimg2.suning.cn/all/ju/images/floor_02.jpg"> 
+      <!-- 商品列表 --> 
+      <ul class="products col-4 tmp-4"> 
+       <li class="product colspan-2"><a href="//ju.suning.com/"><img src="//saleimg1.suning.cn/all/ju/images/DJHrukoutu.jpg"></a></li> 
+       <!-- 这里放广告位图片 --> 
+       <li class="product js-product css3-ani"> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">149</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice" data-sku="">218</em> 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor02_01"></a> </li> 
+       <li class="product last js-product css3-ani"> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">200</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice"></em>284 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor02_02"></a> </li> 
+       <li class="product js-product css3-ani"> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">99</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice" data-sku="">182.9</em> 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor02_03"></a> </li> 
+       <li class="product js-product css3-ani"> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">5.9</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice" data-sku="">11.9</em> 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor02_04"></a> </li> 
+       <li class="product js-product css3-ani"> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">98</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice" data-sku="">699</em> 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor02_05"></a> </li> 
+       <li class="product last js-product css3-ani"> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">299</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice" data-sku="">436</em> 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor02_06"></a> </li> 
+       <div class="clear"></div> 
+      </ul> 
+     </div> 
+     <!-- 苏宁特色GO楼层结束 --> 
+     <img src="//saleimg1.suning.cn/all/ju/images/top_03.jpg"> 
+     <!-- 图片切换start --> 
+     <div class="qiehuan"> 
+      <a class="a01" href="//pindao.suning.com/city/kongtiao.htm" target="_blank"></a> 
+      <a class="a02" href="//list.suning.com/0-244005-0-0-0-9173.html#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"></a> 
+      <a class="a03" href="//shouji.suning.com/" target="_blank"></a> 
+      <a class="a04" href="//binggo.suning.com/9173.html" target="_blank"></a> 
+      <a class="a05" href="//pindao.suning.com/city/jiazhuang.htm" target="_blank"></a> 
+      <a class="a06" href="//g.suning.com/" target="_blank"></a> 
+      <a class="a07" href="//pindao.suning.com/city/chuwei.htm" target="_blank"></a> 
+      <a class="a08" href="//list.suning.com/0-244006-0-0-0-9173.html#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"></a> 
+      <a class="a09" href="//pindao.suning.com/city/shuma.htm" target="_blank"></a> 
+      <a class="a10" href="//redbaby.suning.com/9173.html" target="_blank"></a> 
+      <a class="a11" href="//fashion.suning.com/lirenfang.html" target="_blank"></a> 
+      <a class="a12" href="//dianqi.suning.com/" target="_blank"></a> 
+      <a class="a13" href="//pindao.suning.com/city/caidian.htm" target="_blank"></a> 
+      <a class="a14" href="//pindao.suning.com/city/xiaojiadian.htm" target="_blank"></a> 
+      <a class="a15" href="//pindao.suning.com/city/diannao.htm" target="_blank"></a> 
+      <a class="a16" href="//pindao.suning.com/city/qiche.htm" target="_blank"></a> 
+      <a class="a17" href="//chaoshi.suning.com/9173.htm" target="_blank"></a> 
+      <a class="a18" href="//chaoshi.suning.com/9173.htm" target="_blank"></a> 
+     </div> 
+     <!-- 图片切换end --> 
+     <!-- 限时特惠楼层开始 --> 
+     <div class="part part-1"> 
+      <!-- 楼层条 --> 
+      <img src="//saleimg3.suning.cn/all/ju/images/floor_03.jpg"> 
+      <!-- 商品列表 --> 
+      <ul class="products col-4 tmp-4"> 
+       <li class="product js-product css3-ani"> 
+        <div class="flag"></div> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">1888</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice" data-sku="">2788</em> 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor03_01"></a> </li> 
+       <li class="product js-product css3-ani"> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">5499</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice" data-sku="">6699</em> 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor03_02"></a> </li> 
+       <li class="product js-product css3-ani"> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">2048</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice" data-sku="">2387</em> 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor03_03"></a> </li> 
+       <li class="product last js-product css3-ani"> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">5880</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice" data-sku="">9130</em> 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor03_04"></a> </li> 
+       <li class="product js-product css3-ani"> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">1399</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice" data-sku="">2465</em> 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor03_05"></a> </li> 
+       <li class="product js-product css3-ani"> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">4799</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice" data-sku="">5899</em> 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor03_06"></a> </li> 
+       <li class="product js-product css3-ani"> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">68</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice" data-sku="">225</em> 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor03_07"></a> </li> 
+       <li class="product last js-product css3-ani"> <a href="" target="_blank" class="pro-img"><img src="" title="" width="220" height="220"></a> <a href="" target="_blank" class="pro-name" title=""></a> <p class="pro-desc" title=""></p> 
+        <div class="price"> 
+         <div class="p-price"> 
+          <i>￥</i> 
+          <em class="js-unit-price" data-sku="">29.8</em> 
+         </div> 
+         <div class="o-price"> 
+          <i>￥</i> 
+          <em class="js-unit-refPrice" data-sku="">75</em> 
+         </div> 
+        </div> <a href="" target="_blank" class="pro-btn" name1="sale_cxpd_floor03_08"></a> </li> 
+       <div class="clear"></div> 
+      </ul> 
+     </div> 
+     <!-- 限时特惠楼层结束 --> 
+     <div class=" louwei"> 
+      <div class="louwei_shang"></div> 
+      <div class="louwei_xia"> 
+       <div class="louwei_xia_biao"> 
+        <li><a href="//pindao.suning.com/city/caidian.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank">彩电促销活动</a></li> 
+       </div> 
+       <div class="louwei_xia_biao"> 
+        <li><a href="//g.suning.com/" target="_blank">抢洋货 购任性</a></li> 
+       </div> 
+       <a href="//g.suning.com/" target="_blank"> </a> 
+       <div class="louwei_xia_biao"> 
+        <a href="//g.suning.com/" target="_blank"></a>
+        <li><a href="//g.suning.com/" target="_blank"></a><a href="//chaoshi.suning.com/9173.htm" target="_blank">苏宁超市 FUN肆购</a></li> 
+       </div> 
+       <a href="//chaoshi.suning.com/9173.htm" target="_blank"> </a> 
+       <div class="louwei_xia_biao"> 
+        <a href="//chaoshi.suning.com/9173.htm" target="_blank"></a>
+        <li><a href="//chaoshi.suning.com/9173.htm" target="_blank"></a><a href="//vip.suning.com/" target="_blank">会员专享 乐趣多多</a></li> 
+       </div> 
+       <a href="//vip.suning.com/" target="_blank"> </a> 
+       <div class="louwei_xia_biao"> 
+        <a href="//vip.suning.com/" target="_blank"></a>
+        <li><a href="//vip.suning.com/" target="_blank"></a><a href="//pindao.suning.com/city/fuzhuang.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank">苏宁易购服装城</a></li> 
+       </div> 
+       <a href="//pindao.suning.com/city/fuzhuang.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"> </a> 
+       <div class="louwei_xia_biao"> 
+        <a href="//pindao.suning.com/city/fuzhuang.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"></a>
+        <li><a href="//pindao.suning.com/city/fuzhuang.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"></a><a href="//pindao.suning.com/city/chuwei.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank">苏宁易购 厨卫电器</a></li> 
+       </div> 
+       <a href="//pindao.suning.com/city/chuwei.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"> </a> 
+       <div class="louwei_xia_biao"> 
+        <a href="//pindao.suning.com/city/chuwei.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"></a>
+        <li><a href="//pindao.suning.com/city/chuwei.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"></a><a href="//pindao.suning.com/city/jiazhuang.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank">苏宁家装频道促销</a></li> 
+       </div> 
+       <a href="//pindao.suning.com/city/jiazhuang.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"> </a> 
+       <div class="louwei_xia_biao"> 
+        <a href="//pindao.suning.com/city/jiazhuang.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"></a>
+        <li><a href="//pindao.suning.com/city/jiazhuang.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"></a><a href="//pindao.suning.com/city/kongtiao.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank">苏宁空调大狂欢</a></li> 
+       </div> 
+       <a href="//pindao.suning.com/city/kongtiao.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"> </a> 
+       <div class="louwei_xia_biao"> 
+        <a href="//pindao.suning.com/city/kongtiao.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"></a>
+        <li><a href="//pindao.suning.com/city/kongtiao.htm#sourceUrl4Sa=http://sale.suning.com/all/ju/index.html" target="_blank"></a><a href="//shouji.suning.com/" target="_blank">苏宁手机通讯促销活动</a></li> 
+       </div> 
+       <a href="//shouji.suning.com/" target="_blank"> </a> 
+      </div> 
+      <a href="//shouji.suning.com/" target="_blank"> </a> 
+     </div> 
+     <a href="//shouji.suning.com/" target="_blank"> 
+      <!-- 主体内容结束 --> </a> 
+    </div> 
+    <a href="//shouji.suning.com/" target="_blank"> </a> 
+   </div> 
+   <a href="//shouji.suning.com/" target="_blank"> </a> 
+  </div> 
+  <a href="//shouji.suning.com/" target="_blank"> 
+   <!-- 悬浮代码部分（不需要的部分可以注释掉或者删掉）start------------------------------------------- --> 
+   <!-- 回到顶部代码部分start --> </a> 
+  <div class="float" id="backTopFloat"> 
+   <a href="//shouji.suning.com/" target="_blank"> </a> 
+   <a href="#"><img src="//saleimg2.suning.cn/all/ju/images/back_top.png"></a> 
+  </div> 
+  <!-- 回到顶部代码部分end --> 
+  <!-- 悬浮代码部分end------------------------------------------------------------------------------ --> 
+  <script type="text/javascript">
+    var _virtualPath= "/促销/苏宁易购：优惠精选 每日尝鲜";
+</script> 
+  <!-- 20150731-修改工具栏部分开始（需要上传才能看到） --> 
+  <script src="//script.suning.cn/javascript/jquery.js"></script> 
+  <script src="//script.suning.cn/javascript/sn_da/sa_click.js"></script> 
+  <script type="text/javascript" src="//res.suning.cn/public/v3/js/lazyelem.min.js" charset="utf-8"></script> 
+  <script>
+    var snSidebarSpOpen = true;
+</script> 
+  <!-- 20150731-修改工具栏部分结束（需要上传才能看到） --> 
+  <!-- 每次products.js文件修改后请在这里修改下版本号v=20140804-1（ 修改日期-当日第几次） --> 
+  <script src="//saleres.suning.cn/all/ju/js/products.js?v=20151028-1"></script> 
+  <script src="//sale.suning.com/all/ju/index/js/snAction.js"></script> 
+  <!-- 百度统计脚本开始 --> 
+  <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?cb12e33a15345914e449a2ed82a2a216";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script> 
+  <!-- 百度统计脚本结束 --> 
+  <!--iDigger Tracking Codes--> 
+  <script>
+var _wmmq = _wmmq || [];
+_wmmq.push( [ "db", "ifc" ] ,[ "sitecode", "T-000130-01" ]);
+// 专题名称自行修改，一般与title相同
+_wmmq.push( [ "tag", "：优惠精选 每日尝鲜" ]);
+_wmmq.push( [ "_trackPoint" ] );
+
+(function() {
+    var ays = document.createElement('script');
+    ays.type = 'text/javascript'; ays.async = true;
+    ays.src = ('https:' == document.location.protocol ? 'https://2' : 'http://1') + '.allyes.com.cn/aywmq.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ays, s);
+})();
+</script> 
+  <!--iDigger Tracking Codes--> 
+  <script type="text/javascript">
+    // 埋点代码脚本
+    function _loadAsyncJs(src){                             
+          var _src = src; 
+          var _scripts = document.getElementsByTagName( 'script' ); 
+          for ( var i = 0; i < _scripts.length; i++){ 
+                if (_scripts[i].src==_src){ 
+                    return ; 
+                } 
+          } 
+          var _script = document.createElement( 'script' ); 
+          _script.type = 'text/javascript' ; 
+          _script.async = true ; 
+          _script.src = _src; 
+          var _s = _scripts[0]; 
+          _s.parentNode.insertBefore(_script, _s); 
+    } 
+    function _getJsFilePath(js_file){ 
+         var _hostName = document.location.hostname; 
+         // 一般生产环境的域名                             
+         var _prd_reg = /^\w*?.suning.com$/; 
+         // 一般 pre 环境的域名 
+         var _pre_reg = /^\w*?pre.cnsuning.com$/; 
+         // 一般 sit 环境的域名 
+         var _sit_reg = /^\w*?sit.cnsuning.com$/; 
+         var sa_src = "" ; 
+         if (_prd_reg.test(_hostName)){ 
+                sa_src = ( "https:" == document.location.protocol) ? "https://imgssl.suning.com" : "http://script.suning.cn";
+         } else if (_pre_reg.test(_hostName)){
+                sa_src = ( "https:" == document.location.protocol) ? "https://preimgssl.suning.com" : "http://prescript.suning.cn";
+         } else if (_sit_reg.test(_hostName)){ 
+               sa_src = ( "https:" == document.location.protocol) ? "https://sit1imgssl.suning.com" : "http://sit1script.suning.cn";
+         } else { 
+               sa_src = ( "https:" == document.location.protocol) ? "https://preimgssl.suning.com" : "http://prescript.suning.cn";
+         } 
+         sa_src = sa_src + "/javascript/sn_da/" +js_file; 
+         return sa_src; 
+    }
+    // 埋点代码脚本  
+
+    //JS懒加载start
+    function isArray(obj) {
+        return Object.prototype.toString.call(obj) === '[object Array]';
+    }
+    var windowOnLoadEventQueue = [];
+    var scriptOnLoadEventQueue = [];
+    window.onload = function() {
+        for ( var aFunc in windowOnLoadEventQueue) {
+            windowOnLoadEventQueue[aFunc]();
+        }
+    }
+    function addOnLoad(func) {
+        windowOnLoadEventQueue = windowOnLoadEventQueue.concat(func);
+    }
+    var lazyScriptMap = {};
+    function lazyLoadScript(src, callback) {
+        if (!lazyScriptMap[src]) {
+            lazyScriptMap[src] = callback;
+            var scriptNode = document.createElement("script");
+            if ('function' === typeof callback) {
+                if (!/msie/i.test(navigator.userAgent.toLowerCase())){
+                    scriptNode.onload = callback;
+                }
+                scriptNode.onreadystatechange = function() {
+                    if ("loaded" == scriptNode.readyState
+                            || "complete" == scriptNode.readyState) {
+                        callback();
+                    }
+                }
+            } else if (isArray(callback)) {
+                var callbackSequence = function() {
+                    for ( var i = 0; i < callback.length; i++) {
+                        (callback[i])();
+                    }
+                };
+                scriptNode.onload = callbackSequence;
+                scriptNode.onreadystatechange = function() {
+                    if ("loaded" == scriptNode.readyState
+                            || "complete" == scriptNode.readyState) {
+                        callbackSequence();
+                    }
+                }
+            }
+            scriptNode.type = "text/javascript";
+            scriptNode.src = src;
+            var scriptContainer = document.getElementsByTagName("head")[0];
+            scriptContainer.appendChild(scriptNode);
+        } else {
+        }
+    }
+    function lazyLoadScripts(srcs, callback) {
+        var srcNum = srcs.length;
+        var loadingProgress = 0;
+        if (srcNum > 0) {
+            for ( var i = 0; i < srcNum; i++) {
+                var currSrc = srcs[i];
+                lazyLoadScript(currSrc, function() {
+                    loadingProgress++;
+                    if (srcNum == loadingProgress) {
+                        if ('function' === typeof callback) {
+                            callback();
+                        } else if (isArray(callback)) {
+                            for ( var i = 0; i < callback.length; i++) {
+                                (callback[i])();
+                            }
+                        }
+                    }
+                });
+            }
+        }
+    }
+    var isTimeout = false;
+    var lazyLoadFunction = null;
+    var lazyScriptLoaded = false;
+    var lazyScriptTimeout = 2000; //默认的超时时间2秒，这个数字2是业务部或用户体验部门来提出要求。
+    lazyLoadFunction = function() {
+        lazyScriptLoaded =true;//flag置为true
+        lazyLoadScript("http://script.suning.cn/javascript/ShoppingArea/Common/J_lazyload_shop.js", function(){
+            $("img[src2]").Jlazyload({type: "image",placeholderClass: "err-product"});
+            //加载埋点代码
+            _loadAsyncJs(_getJsFilePath("da_opt.js"));
+        });
+    }
+    function checkLazyScriptTimeout(){
+        isTimeout = true;
+        if(!lazyScriptLoaded){//检测lazy script是否已经加载
+            if(!!lazyLoadFunction){//检测下函数空间，以免servlet还没加载完全
+                lazyLoadFunction();//
+            }else{
+                setTimeout(checkLazyScriptTimeout, 1000);//在servlet还没加载完全的情况下，每过1秒，重新检测一次
+            }
+        }
+    }
+    setTimeout(checkLazyScriptTimeout, lazyScriptTimeout);
+    addOnLoad(lazyLoadFunction);
+    //JS懒加载end---------------------------------------------------------------------------------------------------------------
+    
+    var validateData = function(data){
+        var isjson = typeof(data) == "object" && Object.prototype.toString.call(data).toLowerCase() == "[object array]" && data.length;
+        return isjson;
+    }
+    function bindData(productJson){
+        if (!validateData(productJson)) {
+            if (window.console) {
+                console.log('数据格式有问题！');
+            }
+            return;
+        }
+        if (productJson.length != $('.js-product').size()) {
+            var msg = '配置的产品数据与展示的产品数据不符' + '（配置数据：' + productJson.length+'条；展示数据：' + $('.js-product').size()+'条；）';  
+            if (window.console) {
+                console.log(msg);
+            }                    
+        }
+        for (var i = 0; i < products.length; i++) {
+            var product = products[i];
+            var src = product.src,
+                codeSrc = product.codeSrc,
+                name = product.name,
+                desc = product.desc,
+                sku = product.sku,
+                link = product.link;
+
+            var _product = $('.js-product').eq(i);    
+            _product.find('.pro-img').find('img').attr('src',src).attr('title',name);
+            _product.find('.code').find('img').attr('src',codeSrc);
+            _product.find('.pro-name').html(name).attr('title',name);
+            _product.find('.pro-desc').html(desc).attr('title',desc);
+            _product.find('.js-unit-price').attr('data-sku',sku);
+            _product.find('.js-unit-refPrice').attr('data-sku',sku);
+            _product.find('a').attr('href',link);
+            
+        }
+
+    }
+    // 轮播控件脚本代码start
+   ;(function($){
+        $.extend($.easing,{
+            easeInQuad: function (x, t, b, c, d) {
+                return c*(t/=d)*t + b;
+            }            
+        });
+
+        $.fn.snSlide = function(options){
+
+            var opts = $.extend({},$.fn.snSlide.defaults,options);
+            return this.each(function(){
+                var slide = $(this);
+
+                var btnL = slide.find(".prev");
+                var btnR = slide.find(".next");
+                var _move = slide.find(".content");
+                var nums = slide.find(".nums");
+                var picBox = slide.find(".box");
+                var scrollContent = slide.find(".content");
+                var page = slide.find(".page");
+
+                var pageWidth = opts.pageWidth;
+                var pageHeight = opts.pageHeight;
+                var pageCount = opts.pageCount;
+                var interval = opts.interval;
+                var delay = opts.delay;
+                var speed = opts.speed;
+                var auto = opts.auto;
+                var easing = opts.easing;
+                var pageNumWidth = opts.pageNumWidth;
+
+                var timer = null;
+
+                var init = function(){
+                    var numsWidth = (pageNumWidth+4)*pageCount;
+                    nums.css({'width':numsWidth,'marginLeft':-numsWidth/2});
+                    picBox.css({'width':pageWidth,'height':pageHeight});
+                    scrollContent.css({'width':pageWidth*pageCount*2,'left':-pageWidth*pageCount});
+                    page.css({'width':pageWidth,'height':pageHeight});
+
+                    scrollContent.append(scrollContent.html());
+
+                };
+
+                if (auto) {
+                    timer = setInterval(move,interval);
+                    slide.hover(function(){
+                        clearInterval(timer);
+                    },function(){
+                        timer = setTimeout(function(){timer = setInterval(move,interval);},delay);                       
+                    });                    
+                };
+
+                btnR.click(function(){
+                    _move.stop().animate({left:[-pageWidth*(pageCount+1),easing]},speed,function(){
+                        var lis = _move.find(".page");
+                        _move.append(lis.eq(0).clone());
+                        lis.eq(0).remove();
+                        _move.css({left:-pageWidth*pageCount});
+                        lightNum();
+                    })
+                })
+                btnL.click(function(){
+                    _move.stop().animate({left:[-pageWidth*(pageCount-1),easing]},speed,function(){
+                        var lis = _move.find(".page");
+                        var lastPageIndex = pageCount*2 -1;
+                        _move.prepend(lis.eq(lastPageIndex).clone());//这里的eq值等于page*2-1
+                        lis.eq(lastPageIndex).remove();
+                        _move.css({left:-pageWidth*pageCount});
+                        lightNum();
+                    })
+                });
+
+                function move(){
+                    _move.stop().animate({left:[-pageWidth*(pageCount+1),easing]},speed,function(){
+                        var lis = _move.find(".page");
+                        _move.append(lis.eq(0).clone());
+                        lis.eq(0).remove();
+                        _move.css({left:-pageWidth*pageCount});
+                        lightNum();
+
+                    })
+                };
+                function lightNum(){                   
+                    var activePageNum = slide.find('.page').eq(pageCount).attr('data-page');
+                    slide.find('.nums').find('li').eq(activePageNum-1).addClass('on').siblings().removeClass('on');
+
+                };
+
+                slide.find('.num').click(function(){
+                    var _this = $(this);
+                    var toPageNum = _this.index()+1;
+                    var fromPageNum = slide.find('.page').eq(pageCount).attr('data-page');
+                    var left = -pageWidth*pageCount - (toPageNum - fromPageNum)*pageWidth;
+                    _this.addClass('on').siblings().removeClass('on');
+                    _move.stop().animate({left:[left,easing]},speed,function(){                           
+
+                    })            
+
+                });
+
+                init();
+
+
+            });
+
+        };
+        // 默认参数
+        $.fn.snSlide.defaults = {
+            pageWidth: 1000,
+            pageHeight: 437,    
+            pageCount: 5,
+            interval: 3000,
+            delay: 5000,
+            speed: 500,
+            auto: true,
+            easing: 'easeInQuad',
+            pageNumWidth: 12         
+        }
+    })(jQuery);
+// 轮播控件脚本代码end
+	
+	// 当页面加载完成执行相关脚本start----------------------------------------------------------------------------------------------
+    $(function(){   
+        $(window).scroll(function(){
+            var topHide = $(document).scrollTop(); //页面上部被卷去高度
+            var windowHeight = $(window).height();  //窗口可视区域高度
+            var bottomFloatHeight = $('#bottomFloat').height(); //底悬浮高度
+            var backTopFloatHeight = $('#backTopFloat').height();
+            var bottomTop = windowHeight+topHide-bottomFloatHeight;
+            var backTop = windowHeight+topHide-backTopFloatHeight-20;
+
+            //针对IE6不支持fixed的处理start          
+            if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                $('#bottomFloat').stop().animate({'top':bottomTop},'fast');
+                $('#backTopFloat').stop().animate({'top':backTop},'fast');
+                $("#sn_warp").stop().animate({'top':backTop},'fast');
+            }else{
+                 //顶部导航固定定位  
+                if(topHide>150){
+                   $("#sn_warp").show();  
+                }else{
+                   $("#sn_warp").hide(); 
+                }
+                
+            };
+            //针对IE6不支持fixed的处理end
+           
+            //滚动渐隐渐现左右悬浮start
+            if(topHide>300){
+                $('#leftFloat').show();
+                $('#rightFloat').show();
+                $('#backTopFloat').show();
+            }else{
+                $('#leftFloat').hide();
+                $('#rightFloat').hide(); 
+                $('#backTopFloat').hide();
+            }
+            //滚动渐隐渐现左右悬浮end            
+        });
+        // 轮播脚本引用 start
+        $('#slide_1').snSlide({'pageWidth':983,'pageHeight':405,'pageCount':5,'pageNumWidth':21});
+        // 轮播脚本引用 end  
+
+        $('.css3-ani').hover(function(){
+            $(this).toggleClass('css3-up');
+        })  
+        $('.products').find('.product').hover(function(){
+            $(this).toggleClass('on');
+        })
+        $('.mobile').find('.js-product').click(function(e){
+            e.preventDefault();
+        })
+        // 模板数据填充脚本开始
+        bindData(products);
+        // 模板数据填充脚本结束
+		$("a[name1^=sale_cxpd_]").live("click",function(){
+           try {
+             console.log(sa);
+             sa.click.sendDatasIndex(this,'name1');
+           } catch(e){
+           }
+         });
+                   
+    });
+	// 绑定懒加载事件
+	lazyelem.listen();
+	lazyLoadScript("http://res.suning.cn/public/v3/js/lazyelem.min.js");
+	
+    // 当页面加载完成执行相关脚本end----------------------------------------------------------------------------------------------       
+</script> 
+  <!-- 分享按钮 --> 
+  <script type="text/javascript" src="//v2.jiathis.com/code/jiathis_r.js?move=0&amp;btn=r5.gif" charset="utf-8"></script> 
+  <div class="clear"></div>
+<div class="ng-footer">
+	<div class="ng-s-footer">
+		<div class="ng-s-f-con">
+			<p class="ng-url-list">
+			</p>
+			<p class="ng-url-list">
+			</p>
+			<p class="ng-copyright">
+				Copyright© 2002-2015 ，苏宁云商集团股份有限公司版权所有
+				<a href="http://www.miitbeian.gov.cn" target="_blank" style="color:#999">苏ICP备10207551号-4</a>
+				<a href="http://img.suning.cn/public/v3/images/SUB1-20130131.png" target="_blank" rel="nofollow" style="color:#999">苏B1-20130131</a>
+				<a href="http://img.suning.cn/public/v3/images/SUB2-20130376.png" target="_blank" rel="nofollow" style="color:#999">苏B2-20130376</a>
+				<a href="http://img.suning.cn/public/v3/images/SUB2-20130391.png" target="_blank" rel="nofollow" style="color:#999">苏B2-20130391</a>
+				出版物经营许可证新出发苏批字第A-243号</p>
+			<p class="ng-copyright">本网站直接或间接向消费者推销商品或者服务的商业宣传均属于“广告”（包装及参数、售后保障等商品信息除外）</p>
+			<div class="ng-authentication">
+				<a href="https://search.szfw.org/cert/l/CX20111018000608000610" target="_blank" name="public0_none_wb_zs0302" rel="nofollow">
+					<img src="//img.suning.cn/public/v3/images/chengxin.png" height="24" width="76" alt="诚信网站">
+				</a>
+				<a href="http://image.suning.cn/uimg/snnet/snnetImg/142891196680527240.jpg" target="_blank" name="public0_none_wb_zs0303" rel="nofollow">
+					<img src="//img.suning.cn/public/v3/images/unicom.png" height="24" width="76" alt="中国联通授权网络经营代理商">
+				</a>
+				<a href="http://image.suning.cn/uimg/snnet/snnetImg/143010010209282146.jpg" target="_blank" name="public0_none_wb_zs0304" rel="nofollow">
+					<img src="//img.suning.cn/public/v3/images/dianxin.jpg" height="24" width="76" alt="中国电信授权网络经营代理商">
+				</a>
+				<a href="http://odr.jsdsgsxt.gov.cn:8081/mbm/entweb/elec/certView?siteId=27cfad762f3d45069d79a9f8f83f458f" target="_blank" rel="nofollow" name="public0_none_wb_zs0303">
+					<img src="//img.suning.cn/public/v3/images/dianzi.png?v=02" height="24" width="76" alt="电子营业执照">
+				</a>
+			</div>
+		</div>
+	</div>
+<!--top fix bar [[-->
+<div class="ng-fix-bar"></div>
+<!--top fix bar ]]-->
+</div>
+<style type="text/css">
+.ng-footer{height:175px;margin-top:0;}
+.ng-s-footer{height:160px;background:none;text-align:center;}
+.ng-s-footer p.ng-url-list{height:25px;line-height:25px;}
+.ng-s-footer p.ng-url-list a{color:#666666;}
+.ng-s-footer p.ng-url-list a:hover{color:#f60;}
+.ng-s-footer .ng-authentication{float:none;margin:0 auto;height:25px;width:990px;margin-top:5px;}
+.ng-s-footer p.ng-copyright{float:none;width:100%;}
+.root1200 .ng-s-footer p.ng-copyright{width:100%;}
+</style>
+  
+ </body>
+</html>
