@@ -1,0 +1,415 @@
+@import "../lib/reset.css";
+body,
+html {
+  width: 100%;
+  height: 100%;
+  background: #f2f2f2;
+}
+.gm-header {
+  width: 100%;
+  height: 43px;
+  background: #ffffff;
+  border-bottom: 1px solid #dcdcdc;
+  padding-left: 15px;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 999;
+}
+.gm-header .gm-header-left {
+  width: 42px;
+  height: 42px;
+  background: none;
+  display: inline-block;
+  background: url("../../images/one/h1.png") no-repeat 15px 50%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.gm-header .title_gm {
+  width: 100%;
+  height: 100%;
+  background: none;
+  display: inline-block;
+  text-align: center;
+  line-height: 43px;
+  font-size: 15px;
+}
+.gm-header .gm-right {
+  position: absolute;
+  right: 10px;
+  top: 0;
+  width: 42px;
+  height: 42px;
+  background: none;
+  background: url("../../images/six/more.png") no-repeat center;
+  background-size: 20px 20px;
+  border: none;
+}
+.gm-user {
+  width: 100%;
+  height: 145px;
+  background: url("../../images/six/bg.png") no-repeat;
+  background-size: 100% 145px;
+  position: relative;
+  overflow: hidden;
+}
+.gm-user .gm-img {
+  position: absolute;
+  top: -20px;
+  right: 98px;
+  width: 55px;
+  height: auto;
+  background: none;
+}
+.gm-user .gm-info {
+  width: 100%;
+  height: 65px;
+  background: none;
+  position: absolute;
+  bottom: 15px;
+}
+.gm-user .gm-info .gm-icon {
+  width: 63px;
+  height: 63px;
+  background: none;
+  position: absolute;
+  top: 0;
+  left: 10px;
+  border: 1px solid white;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 63px;
+}
+.gm-user .gm-info .gm-icon img {
+  width: 57px;
+  height: 57px;
+  background: none;
+  border-radius: 50%;
+}
+.gm-user .gm-info .gm-data {
+  width: auto;
+  height: auto;
+  background: none;
+  position: absolute;
+  left: 88px ;
+  top: 20px;
+}
+.gm-user .gm-info .gm-data p {
+  color: white;
+}
+.gm-user .gm-info .gm-data .gm-tel {
+  font-size: 10px;
+}
+.gm-user .gm-info .gm-data .gm-tel img {
+  width: auto;
+  height: 13px;
+  background: none;
+}
+.gm-user .gm-info .gm-data .gm-data-money {
+  font-size: 12px;
+}
+.gm-user .gm-info .gm-manage {
+  position: absolute;
+  right: 11px;
+  top: 35px;
+  color: white;
+  font-size: 11px;
+}
+.gm-orders {
+  width: 100%;
+  height: 43px;
+  background: #ffffff;
+  border-bottom: 1px solid #dcdcdc;
+}
+.gm-orders span {
+  line-height: 43px;
+  padding-left: 15px;
+  font-size: 12px;
+}
+.gm-orders a {
+  font-size: 11px;
+  line-height: 43px;
+  float: right;
+  padding-right: 12px;
+  color: #b99d9d;
+}
+.gm-action {
+  width: 100%;
+  height: 75px;
+  background: #ffffff;
+}
+.gm-action a {
+  width: 25%;
+  height: auto;
+  background: none;
+  float: left;
+  display: inline-block;
+  text-align: center;
+  margin-top: 17px;
+  color: black;
+  padding-top: 30px;
+}
+.gm-action .gm-a-a1 {
+  background: url("../../images/six/order-dzf.png") no-repeat center 0;
+  background-size: auto 20px;
+}
+.gm-action .gm-a-a2 {
+  background: url("../../images/six/order-dsh.png") no-repeat center 0;
+  background-size: auto 20px;
+}
+.gm-action .gm-a-a3 {
+  background: url("../../images/six/order-dpj.png") no-repeat center 0;
+  background-size: auto 20px;
+}
+.gm-action .gm-a-a4 {
+  background: url("../../images/six/order-thh.png") no-repeat center 0;
+  background-size: auto 20px;
+}
+.gm-funds {
+  width: 100%;
+  height: 106px;
+  background: #ffffff;
+  margin: 13px 0;
+}
+.gm-funds .gm-coupon {
+  width: 33.33%;
+  height: 106px;
+  background: none;
+  float: left;
+}
+.gm-funds .gm-coupon a {
+  display: inline-block;
+  text-align: center;
+  margin-top: 22px;
+  padding-top: 32px;
+  width: 100%;
+  height: auto;
+  background: none;
+  background: url("../../images/six/quan.png") no-repeat center 0;
+  background-size: auto 21px;
+  color: black;
+}
+.gm-funds .gm-money-option {
+  width: 33.33%;
+  height: 106px;
+  background: none;
+  border-left: 1px solid  #f2f2f2;
+  border-right: 1px solid  #f2f2f2;
+  float: left;
+  box-sizing: border-box;
+}
+.gm-funds .gm-money-option .gm-op-top {
+  width: 100%;
+  height: 52px;
+  background: none;
+  border-bottom: 1px solid #f2f2f2;
+  zoom: 1;
+  overflow: auto;
+}
+.gm-funds .gm-money-option .gm-op-top a {
+  display: block;
+  text-align: center;
+  margin-top: 9px;
+  font-size: 11px;
+  line-height: 11px;
+  color: #eda200;
+}
+.gm-funds .gm-money-option .gm-op-top span {
+  display: block;
+  text-align: center;
+  margin-top: 9px;
+  font-size: 12px;
+  line-height: 12px;
+}
+.gm-funds .gm-money-option .gm-op-button {
+  width: 100%;
+  height: 52px;
+  background: none;
+  border-bottom: 1px solid #f2f2f2;
+  zoom: 1;
+  overflow: auto;
+}
+.gm-funds .gm-money-option .gm-op-button a {
+  display: block;
+  text-align: center;
+  margin-top: 9px;
+  font-size: 11px;
+  line-height: 11px;
+  color: #eda200;
+}
+.gm-funds .gm-money-option .gm-op-button span {
+  display: block;
+  text-align: center;
+  margin-top: 9px;
+  font-size: 12px;
+  line-height: 12px;
+}
+.gm-funds .gm-my-money {
+  width: 33.33%;
+  height: 106px;
+  background: none;
+  float: left;
+}
+.gm-funds .gm-my-money .gm-mo-top {
+  width: 100%;
+  height: 52px;
+  background: none;
+  border-bottom: 1px solid #f2f2f2;
+  zoom: 1;
+  overflow: auto;
+}
+.gm-funds .gm-my-money .gm-mo-top a {
+  display: block;
+  text-align: center;
+  margin-top: 9px;
+  font-size: 11px;
+  line-height: 11px;
+  color: #fa4b4b;
+}
+.gm-funds .gm-my-money .gm-mo-top span {
+  display: block;
+  text-align: center;
+  margin-top: 9px;
+  font-size: 12px;
+  line-height: 12px;
+}
+.gm-funds .gm-my-money .gm-mo-button {
+  width: 100%;
+  height: 52px;
+  background: none;
+  border-bottom: 1px solid #f2f2f2;
+  zoom: 1;
+  overflow: auto;
+}
+.gm-funds .gm-my-money .gm-mo-button a {
+  display: block;
+  text-align: center;
+  margin-top: 9px;
+  font-size: 11px;
+  line-height: 11px;
+  color: #999999;
+}
+.gm-funds .gm-my-money .gm-mo-button span {
+  display: block;
+  text-align: center;
+  margin-top: 9px;
+  font-size: 12px;
+  line-height: 12px;
+}
+.gm-list-fun {
+  width: 100%;
+  height: 178px;
+  background: #ffffff;
+  margin-bottom: 14px;
+}
+.gm-list-fun li {
+  width: 25%;
+  height: 50%;
+  background: none;
+  border-right: 1px solid #f2f2f2;
+  border-bottom: 1px solid #f2f2f2;
+  box-sizing: border-box;
+  float: left;
+  text-align: center;
+}
+.gm-list-fun li img {
+  width: 25px;
+  height: auto;
+  background: none;
+  margin-top: 20px;
+}
+.gm-list-fun li p {
+  margin-top: 8px;
+  font-size: 12px;
+  line-height: 12px;
+}
+.gm-guess-likes {
+  width: 100%;
+  height: 42px;
+  background: #ffffff;
+  position: relative;
+}
+.gm-guess-likes span {
+  position: absolute;
+  left: 15px;
+  top: 20px;
+  font-size: 12px;
+}
+.gm-guess-likes button {
+  position: absolute;
+  right: 13px;
+  bottom: 0;
+  font-size: 11px;
+  width: 51px;
+  height: 26px;
+  background: none;
+  border: 1px solid #999999;
+  box-sizing: border-box;
+  border-radius: 1px;
+}
+.gm-recommend {
+  padding-right: 58px;
+  width: 100%;
+  height: auto;
+  background: #ffffff;
+  box-sizing: border-box;
+  zoom: 1;
+  overflow: hidden;
+  padding-bottom: 16px;
+}
+.gm-recommend ul li {
+  padding-left: 16px;
+  float: left;
+  width: 33.3%;
+  height: auto;
+  background: none;
+  margin-top: 16px;
+  box-sizing: border-box;
+}
+.gm-recommend ul li a {
+  color: black;
+}
+.gm-recommend ul li a div {
+  width: 100%;
+  height: auto;
+  background: none;
+  border: 1px solid #dddddd;
+  padding: 3px;
+  box-sizing: border-box;
+}
+.gm-recommend ul li a div img {
+  width: 100%;
+  height: auto;
+  background: none;
+}
+.gm-recommend ul li a .gm-r-name {
+  font-size: 12px;
+  word-break: break-all;
+  word-wrap: break-word;
+  overflow: hidden;
+  height: 36px;
+  line-height: 18px;
+  margin-top: 11px;
+}
+.gm-recommend ul li a .gm-r-price {
+  font-size: 11px;
+  color: #fa4b4b;
+  margin-top: 10px;
+  line-height: 11px;
+}
+.footer {
+  width: 100%;
+  height: 97px;
+  background: none;
+  padding: 0 13px;
+  box-sizing: border-box;
+}
+.footer button {
+  width: 100%;
+  height: 47px;
+  background: none;
+  border: 1px solid #999999;
+  font-size: 12px;
+  border-radius: 3px;
+  margin-top: 28px;
+}

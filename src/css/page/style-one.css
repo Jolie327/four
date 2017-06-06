@@ -1,0 +1,217 @@
+@import "../lib/reset.css";
+@import "../lib/swiper.min.css";
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+  background: none;
+}
+.ga-header {
+  width: 100%;
+  height: 43px;
+  background: none;
+  border-bottom: 1px solid #dcdcdc;
+  padding-left: 15px;
+  box-sizing: border-box;
+  position: relative;
+}
+.ga-header .ga-header-left {
+  width: 42px;
+  height: 42px;
+  background: url("../../images/one/h1.png") no-repeat 15px 50%;
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.ga-header .title_s {
+  width: 100%;
+  height: 100%;
+  background: url("../../images/one/title.png") no-repeat 50% 50%;
+  display: inline-block;
+}
+.ga-banner {
+  width: 100%;
+  height: auto;
+  background: none;
+}
+.ga-banner img {
+  width: 100%;
+  height: auto;
+  background: none;
+}
+.ga-nav {
+  width: 100%;
+  height: 40px;
+  background: none;
+  padding-right: 38px;
+  box-sizing: border-box;
+  top: 0;
+  left: 0;
+  position: -webkit-sticky;
+  position: sticky;
+}
+.ga-nav .nav-list {
+  width: 100%;
+  height: 40px;
+  background: url("../../images/one/tab_bg2.png") no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+  z-index: 999;
+}
+.ga-nav .nav-list .swiper-container {
+  width: 100%;
+  height: 100%;
+}
+.ga-nav .nav-list .swiper-slide {
+  text-align: center;
+  font-size: 14px;
+  color: white;
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.ga-nav .nav-list .options {
+  font-weight: bold;
+  color: #fffc00;
+}
+.ga-nav .nav-list .swiper-wrapper {
+  z-index: 9999;
+  transition: 1s;
+  -webkit-transition: 1s;
+}
+.ga-nav .nav-extend {
+  width: 38px;
+  height: 40px;
+  background: url("../../images/one/tab_arrow_bg2.png") no-repeat;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background-size: 100% 100%;
+}
+.ga-nav .nav-extend .nav-toggle {
+  width: 12px;
+  height: 12px;
+  background: none;
+  left: 13px;
+  top: 14px;
+  border-right: 1px solid #eae7fe;
+  border-bottom: 1px solid #eae7fe;
+  border-left: 1px solid #5255f3;
+  border-top: 1px solid #5255f3;
+  position: absolute;
+}
+.ga-nav .nav-extend .nav-toggle1 {
+  transform: rotate(45deg);
+  top: 12px;
+}
+.ga-nav .nav-extend .nav-toggle2 {
+  transform: rotate(-135deg);
+  top: 16px;
+}
+.ga-nav .nav-zhe {
+  width: 100%;
+  height: 145px;
+  background: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  bottom: -145px;
+  padding-right: 20px;
+  box-sizing: border-box;
+  display: none;
+}
+.ga-nav .nav-zhe ul li {
+  width: 25%;
+  height: auto;
+  background: none;
+  float: left;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 25px;
+}
+.ga-nav .nav-zhe ul li a {
+  color: #ffffff;
+}
+.ga-footer1 {
+  width: 100%;
+  height: auto;
+  background: #f2f2f2;
+  padding: 0 10px;
+  box-sizing: border-box;
+  float: left;
+}
+.ga-footer1 .ga-list {
+  width: 100%;
+  height: auto;
+  background: #ffffff;
+  display: block;
+  padding: 10px 10px 0;
+  box-sizing: border-box;
+  margin-top: 10px;
+  color: black;
+}
+.ga-footer1 .ga-list .ga-bold {
+  width: 100%;
+  height: auto;
+  background: none;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 14px;
+}
+.ga-footer1 .ga-list .ga-commend {
+  font-size: 12px;
+  width: 100%;
+  height: auto;
+  background: none;
+  color: #909090;
+  line-height: 28px;
+  overflow: auto;
+  zoom: 1;
+}
+.ga-footer1 .ga-list .ga-commend .ga-com-sp {
+  float: right;
+  padding-right: 18px;
+  background: url("../../images/one/c2.png") no-repeat center right;
+}
+.ga-footer1 .ga-list .ga-goods1 {
+  padding: 10px 0;
+  width: 100%;
+  height: auto;
+  background: none;
+  overflow: auto;
+  zoom: 1;
+}
+.ga-footer1 .ga-list .ga-goods1 li {
+  width: 30%;
+  height: auto;
+  background: none;
+  display: inline-block;
+  float: left;
+}
+.ga-footer1 .ga-list .ga-goods1 li img {
+  width: 100%;
+  height: auto;
+  background: none;
+}
+.ga-footer1 .ga-list .ga-goods1 li .ga-money {
+  font-size: 10px;
+}
+.ga-footer1 .ga-list .ga-goods1 li .ga-money span {
+  color: #fa5858;
+}
+.ga-footer1 .ga-list .ga-goods1 li .ga-money s {
+  color: #c9c9c9;
+}
+.ga-footer1 .ga-list .ga-goods1 li:nth-child(2) {
+  padding: 0 5%;
+}
