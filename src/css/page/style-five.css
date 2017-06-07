@@ -1,8 +1,6 @@
 @charset "utf-8";
 @import "../lib/reset.css";
-body {
-  background-color: #ffffff;
-}
+
 .clearfix:after {
   content: '\20';
   display: block;

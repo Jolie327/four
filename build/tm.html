@@ -4,18 +4,9 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-		<title></title>
-		<script type="text/javascript">
-			document.addEventListener('plusready', function() {
-				//console.log("所有plus api都应该在此事件发生后调用，否则会出现plus is undefined。"
+		<title>礼包详情</title>
 
-			});
-		</script>
-		<!--<script src="../src/js/lib/jquery-2.1.1.min.js"></script>
-		<link rel="stylesheet" type="text/css" href="../src/css/lib/swiper.min.css" />
-		<script src="../src/js/lib/swiper.min.js"></script>-->
 		<link rel="stylesheet" type="text/css" href="./flow.css" />
-		<script src="./finally.js"></script>
 		
 		
 	</head>
@@ -25,7 +16,7 @@
 		<div class="tm_main">
 			<div class="tm_header">
 				<div class="tmh_left">
-					<a href="javascript:;">
+					<a href="index.html">
 						<string class="h_string"></string>
 					</a>
 				</div>
@@ -38,23 +29,14 @@
 			</div>
 			<div class="tm_nav">
 				<ul>
-					<li>
-						<a href="javascript:;" class="tmn_a">今日上新</a>
-					</li>
-					<li>
-						<a href="tm1.html">夏日换新</a>
-					</li>
-					<li>
-						<a href="javascript:;">发现好物</a>
-					</li>
-					<li>
-						<a href="javascript:;">即将上新</a>
-					</li>
+					<li class="tmn_a">今日上新</li>
+					<li>夏日换新</li>
+					<li>发现好物</li>
+					<li>即将上新</li>
 				</ul>
-
 			</div>
 			<div class="tm_conten">
-				<div class="tmc_jr">
+				<div class="tmc_jr tm-active">
 					<div class="tmc_jr1">
 					    <div class="swiper-container">
 					        <div class="swiper-wrapper">
@@ -75,7 +57,14 @@
 					<div class="tmc_jr2">
 						<div class="title">
 							<h5><img src="../src/images/tm/tmc.jpg"/></h5>
-							<p id="odiv"></p>	
+							<p id="odiv">
+								距离结束时间：
+								<span class="tmsp2"></span>
+								<span class="tmsp3"></span>
+								<span class="tmsp4"></span>
+								<span class="tmsp5"></span>
+								
+							</p>	
 						</div>
 						
 						<div class="tmc2_sweip">
@@ -194,16 +183,50 @@
 							<h6><img src="../src/images/tm/tmc_jr5.jpg"/></h6>
 							<p>每天早上9:30上新</p>
 						
-						</div>
-				</div>
-				<div class="tmc_xr">
-					
-				</div>
-				<div class="tmc_fx">3</div>
-				<div class="tmc_jj">1</div>
+						</div>	
 			</div>
+			
+			    <div class="tmc_jr">
+			    	<div class="tmc_jr1 tmc_jr_1">
+					    <div class="swiper-container">
+					        <div class="swiper-wrapper">
+					            <div class="swiper-slide"><img src="../src/images/tm/tm_header1.jpg"/></div>
+					            <div class="swiper-slide"><img src="../src/images/tm/tm_header2.jpg"/></div>
+					            <div class="swiper-slide"><img src="../src/images/tm/tm_header3.jpg"/></div>
+					            <div class="swiper-slide"><img src="../src/images/tm/tm_header4.jpg"/></div>
+			
+					        </div>
+					        <!-- Add Pagination -->
+					        <div class="swiper-pagination"></div>
+					    </div>
+						<div class="tmcj_img">
+							<img src="../src/images/tm/tm_main.jpg"/>
+						</div>
+					</div>
+                     <div class="tmc_jr3 tmc_jr4">
+						<p><img src="../src/images/tm/tmc_jr31.jpg" alt="" /></p>
+						<img src="../src/images/tm/tmc_jr33.jpg" alt="" />
+						<img src="../src/images/tm/tmc_jr42.jpg"/>
+						<img src="../src/images/tm/tmc_jr41.jpg"/>
+						<img src="../src/images/tm/tmc_jr4.jpg"/>
+					</div>
+				</div>
+				<div class="tmc_jr">
+					<div class="tmc_jr3 tmc_jr4">
+						<img src="../src/images/tm/tmc_jr42.jpg"/>
+						<img src="../src/images/tm/tmc_jr41.jpg"/>
+						<img src="../src/images/tm/tmc_jr4.jpg"/>
+					</div>
+				</div>
+				<div class="tmc_jr">
+					<div class="tmc_jr3 tmc_jr4">
+						<img src="../src/images/tm/tmc_jr41.jpg"/>
+						<img src="../src/images/tm/tmc_jr4.jpg"/>
+					</div>
+				</div>
 		</div>
-		<div class="tm_footer">
+		</div>
+<div class="tm_footer">
 			<div class="tmf">
 			<a href="javascript:;" class="tmf_a">
 				<img src="../src/images/tm/tmf1.png"/>
@@ -213,7 +236,7 @@
 			</p>
 			</div>
 			<div class="tmf">
-			<a href="javascript:;" class="tmf_a">
+			<a href="stlyle-five.html" class="tmf_a">
 				<img src="../src/images/tm/tmf2.png"/>
 			</a>
 			<p class="tmf_p">
@@ -229,7 +252,7 @@
 			</p>
 			</div>
 			<div class="tmf">
-			<a href="javascript:;" class="tmf_a">
+			<a href="tm1.html" class="tmf_a">
 				<img src="../src/images/tm/tmf4.png"/>
 			</a>
 			<p class="tmf_p">
@@ -240,3 +263,6 @@
 	</body>
 
 </html>
+
+	<script src="./finally.js"></script>
+	

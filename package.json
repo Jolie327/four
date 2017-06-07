@@ -27,12 +27,12 @@
     "transform-runtime": "0.0.0",
     "uglifyjs-webpack-plugin": "^0.4.3",
     "url-loader": "^0.5.8",
-    "webpack": "^2.4.1",
+    "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5",
     "webpack-hot-middleware": "^2.18.0"
   },
   "scripts": {
     "start": "webpack --progress --color --watch",
-    "server": "webpack-dev-server --progress --colors  --port 80 --inline --host 192.168.1.118"
+    "server": "webpack-dev-server --progress --colors  --port 80 --inline --host 192.168.23.1"
   }
 }

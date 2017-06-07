@@ -1,12 +1,6 @@
 @import url("../lib/reset.css");
 @import url("../lib/swiper.min.css");
-body,
-html {
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  margin: 0;
-}
+
 .tm_main {
   width: 100%;
   height: 100%;
@@ -72,14 +66,11 @@ html {
   float: left;
   width: 25%;
   height: 3.6rem;
-}
-.tm_main .tm_nav li a {
-  color: #000000;
-  display: inline-block;
   font-size: 1.2rem;
+  color: #000000;
   height: 3.3rem;
 }
-.tm_main .tm_nav li .tmn_a {
+.tm_main .tm_nav .tmn_a {
   color: #e21f25;
   border-bottom: 1px solid #e21f25;
 }
@@ -90,6 +81,10 @@ html {
 }
 .tm_main .tm_conten .tmc_jr {
   width: 100%;
+  display: none;
+}
+.tm_main .tm_conten .tm-active{
+	display: block;
 }
 .tm_main .tm_conten .tmc_jr .tmc_jr1 {
   height: 15rem;

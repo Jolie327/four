@@ -10,7 +10,6 @@ require('../../css/page/style-five.css');
 require('../../css/page/style-six.css');
 require('../lib/jquery-2.1.1.min');
 require('../lib/vue.min');
-require('../module/utils');
 require('../page/render-one');
 require('../page/render-two');
 require('../page/render-three');

@@ -4,8 +4,7 @@ var swiper=require("../lib/swiper.min.js");
 
 $(function () {
 
-    var swiper = new Swiper('.swiper-container', {
-        pagination: '.swiper-pagination',
+    var swiper = new Swiper('.ga-nav .swiper-container', {
         slidesPerView: 4,
         paginationClickable: true,
         spaceBetween: 10
@@ -46,22 +45,6 @@ $(function () {
         var ju= -(_this-1.5)*25+'%';
         $(".swiper-wrapper").css("transform","translateX("+ju+")")
     });
-
-
-
-    // $(window).scroll(function () {
-    //     // console.log($(".ga-nav").offset().top-$(window).scrollTop());
-    //     var wTop=$(".ga-nav").offset().top-$(window).scrollTop();
-    //     var ListH=$(".ga-list").height();
-    //     // console.log( $(".ga-list").height());
-    //     // console.log($(".ga-nav").position());
-    //      if(wTop<=-ListH){
-    //          $(".ga-nav").addClass("ga-nav2");
-    //      }else {
-    //          $(".ga-nav").removeClass("ga-nav2")
-    //      }
-    // })
-
 
 
 
