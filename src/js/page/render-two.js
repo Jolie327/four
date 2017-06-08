@@ -40,28 +40,39 @@ $(function() {
 			});
 		},
 		tm4: function() {
+			var tim=null;
+			var t=null;
 			 function times(){
-				   	var endtime=new Date('2017/06/07 24:00:00');
+				   	var endtime=new Date('2017/06/08 24:00:00');
 				   	var strtime=new Date();
-				   	var t=endtime.getTime()-strtime.getTime();				   
+				   	    t=endtime.getTime()-strtime.getTime();				   
 					var h=0;
 					var m=0;
 					var s=0;
-					if(t>=0){
+					var ss=0;
+					if(t>0){
 						h=Math.floor(t/1000/60/60%24);
 						m=Math.floor(t/1000/60%60);
 						s=Math.floor(t/1000%60);
-						ss=Math.floor(t%100);							
+						ss=Math.floor(t%100);
+						
 					}
-					$('.tmsp2').html(zero(h));
-					$('.tmsp3').html(zero(m));
-					$('.tmsp4').html(zero(s));
-					$('.tmsp5').html(zero(ss));
+
+                $('.tmsp2').html(zero(h));
+				$('.tmsp3').html(zero(m));
+				$('.tmsp4').html(zero(s));
+				$('.tmsp5').html(zero(ss));
+
 			  }
+			   
 			function zero(n){
 					return n=n<10?'0'+n:n;
 			}
-				 setInterval(times,70);
+
+				setInterval(times,70);
+
+				
+				
 
 
 		},
